@@ -1,0 +1,68 @@
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2; /* Set the background color for the entire page */
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styling */
+h1 {
+  text-align: center;
+  background-color: #2e7d32; /* Styling for the page header */
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+/* Sections styling */
+section {
+  background-color: #ffffff; /* Styling for content sections */
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Button styling */
+button {
+  background-color: #2e7d32; /* Styling for interactive buttons */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #1b5e20; /* Button appearance on hover */
+}
+
+/* Paragraph (p) styling */
+p {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Story paragraph styling */
+#story {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+/* ID "studentId" styling */
+#studentId {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+/* Section headings (h2) styling */
+h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  color: #2e7d32; /* Styling for section headings */
+}
